@@ -17,10 +17,12 @@ Software Engineer responsible for the architecture, development and scaling of c
 - Server administration and Amazon Web Services
 - Strong experience in Python, AWS, Deployment, Distributed Systems, Git, Bash, Scala, Java, PHP
 
-Amazon Web Services (AWS):
-- Build services from scratch
-- Define launch configs, auto scaling groups, run cluster of EC2 machines
-- Use Amazon SQS, Kinesis, Redshift, Dynamodb, S3, RDS, IAM heavily
+Projects
+- Built Machine learning infrastructure from ground up to model hundreds of ride simulations, used to optimize various algorithms like pricing, driver dispatch, Lyft line matching
+- Real-time streaming infrastructure to enable teams to move quickly, getting accurate data with minimal delay
+- Data workflow management using open source system Airflow
+- Strong experience building infrastructure and writing data pipelines using Spark, Hive, Hadoop, SQL, MapReduce
+- Working with data at the petabyte scale
 
 * Experience
 ** Software Engineering Lead at Lyft
