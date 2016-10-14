@@ -1,0 +1,51 @@
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: hidestars indent
+#+INCLUDE: personal-info.org
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{colorlinks=true, urlcolor={url-gray}}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{leftmargin=0.25in,nosep}
+
+{{{HEADER}}}
+
+* Experience
+** Software Engineering Lead at Lyft
+*** March 2015 - Present 
+- Tech lead on Data Platform at Lyft
+- Building scalable data processing systems from ingestion to datawarehousing
+- Building a highly extensible ETL system that can process data using Redshift, Hive and Spark
+** Software engineer at Instagram
+*** April 2014 - March 2015
+- Experimentation tools
+- Data migrations flows
+- Service APIs
+** Marketing infrastructure at Facebook
+- Visualization platform to provide real time insights about advertiser spend
+- Logging, Data pipelines, Measurement, Analytics, ETL, Visualization
+- Data science
+** Data engineer at Mu Sigma
+*** July 2011 - October 2012
+- Migrating data science teams to open source tools like R
+- developing an integrated Web Analytics & Research platform.
+- Sales impact modeling 
+- Website and conversion funnel analytics for e-commerce companies
+** Software engineer at Accenture
+*** December 2009 - June 2011
+- ETL data processing pipelines
+- Web Development using Azure Cloud 
+- Data warehousing
+* Education
+** K J Somaiya College of Engineering, 2005 - 2009
+B.E., Computer Engineering
+* Skills
+Python
+Scala
+Java
+Hadoop
+Hive
+Apache Spark
+SQL
+R
+Amazon Web Services
+C++

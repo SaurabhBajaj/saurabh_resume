@@ -1,0 +1,11 @@
+#+MACRO: FIRST    Saurabh
+#+MACRO: LAST     Bajaj
+#+MACRO: FULL     {{{FIRST}}} {{{LAST}}}
+#+MACRO: BLOG     linkedin.com/in/bajajs
+#+MACRO: EMAIL    saurabh@tensorflight.com
+#+MACRO: PHONE    +1 650 475 6175
+#+MACRO: CODE     https://github.com/SaurabhBajaj
+#+MACRO: ADDRESS1 1575 Sacramento Street
+#+MACRO: ADDRESS2 San Francisco
+
+#+MACRO: HEADER \resheader{ {{{FULL}}} }{ {{{BLOG}}} }{ {{{EMAIL}}} }{ {{{PHONE}}} }{ {{{ADDRESS1}}} }{ {{{ADDRESS2}}} }
