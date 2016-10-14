@@ -39,13 +39,16 @@
 ** K J Somaiya College of Engineering, 2005 - 2009
 B.E., Computer Engineering
 * Skills
-Python
-Scala
-Java
-Hadoop
-Hive
-Apache Spark
-SQL
-R
-Amazon Web Services
+** Languages
+Python,
+Java,
+R,
+Scala,
 C++
+** Technologies
+Data infrastructure,
+Amazon web services,
+Hadoop,
+Hive,
+Apache Spark,
+SQL
