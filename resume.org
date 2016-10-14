@@ -9,25 +9,38 @@
 
 {{{HEADER}}}
 
+* Summary
+
+Software Engineer responsible for the architecture, development and scaling of core backend systems that power Lyft.
+- Building highly distributed systems from ground up
+- Work on scaling high-traffic web applications 
+- Server administration and Amazon Web Services
+- Strong experience in Python, AWS, Deployment, Distributed Systems, Git, Bash, Scala, Java, PHP
+
+Amazon Web Services (AWS):
+- Build services from scratch
+- Define launch configs, auto scaling groups, run cluster of EC2 machines
+- Use Amazon SQS, Kinesis, Redshift, Dynamodb, S3, RDS, IAM heavily
+
 * Experience
 ** Software Engineering Lead at Lyft
 *** March 2015 - Present 
-- Tech lead on Data Platform at Lyft
+- Tech lead/Second Engineer on Data Platform at Lyft
 - Building scalable data processing systems from ingestion to data warehousing
-- Building a highly extensible ETL system that can process data using Redshift, Hive and Spark
+- Build simulation systems to run tens of thousands of ride simulations to optimizing pricing, eta, Lyft line matching
 ** Software engineer at Instagram
 *** April 2014 - March 2015
 - Experimentation tools
-- Data migrations flows
-- Service APIs
+- Data migration system
+- Core APIs
 ** Marketing infrastructure at Facebook
 - Visualization platform to provide real time insights about advertiser spend
 - Logging, Data pipelines, Measurement, Analytics, ETL, Visualization
-- Data science
+- Facebook Experimentation tools
 ** Data engineer at Mu Sigma
 *** July 2011 - October 2012
-- Migrating data science teams to open source tools like R
-- developing an integrated Web Analytics & Research platform.
+- Migrated core data science systems from proprietary tools to open source (R)
+- Develop an integrated Web Analytics & Research platform.
 - Sales impact modeling 
 - Website and conversion funnel analytics for e-commerce companies
 ** Software engineer at Accenture
