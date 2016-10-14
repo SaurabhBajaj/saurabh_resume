@@ -13,7 +13,7 @@
 ** Software Engineering Lead at Lyft
 *** March 2015 - Present 
 - Tech lead on Data Platform at Lyft
-- Building scalable data processing systems from ingestion to datawarehousing
+- Building scalable data processing systems from ingestion to data warehousing
 - Building a highly extensible ETL system that can process data using Redshift, Hive and Spark
 ** Software engineer at Instagram
 *** April 2014 - March 2015
